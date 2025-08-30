@@ -1,11 +1,6 @@
 import React from "react";
 import "./Navigation.css"
-function Navigation({handleInputChange , query}){
- 
-   
-   
-    console.log("navigation");
-   
+function Navigation({handleInputChange , query}){   
    
     return(<>
     <nav className="nav-container">
